@@ -70,10 +70,10 @@ const DefaultResumeData = {
   {
       "company": "Smartschool",
       "position": "Founder & Co-CEO",
-      "description": "At BigParyaj, a leading sports betting website, I served as the Head Developer, overseeing the technical aspects of our platform's development.",
-      "keyAchievements": "In this role, I led a team of developers in designing and implementing robust features to enhance the user experience and ensure the reliability and security of our betting platform.\nWorking closely with product managers and designers, I played a pivotal role in translating business requirements into technical specifications and guiding the team through the development lifecycle.\nMy responsibilities included architecting scalable solutions, conducting code reviews, and implementing best practices to optimize performance and maintainability. \nThrough effective leadership and collaboration, I contributed to the continuous improvement and success of BigParyaj as a premier destination for sports betting enthusiasts.",
-      "startYear": "2023-02-22",
-      "endYear": "2023-03-09"
+      "description": "As the Founder and Co-CEO of Smartstch, I spearheaded a revolution in Haitian education by introducing cutting-edge technology solutions.",
+      "keyAchievements": "Smartstch offers a comprehensive educational ecosystem powered by AI, including a school management system, virtual chemistry, physics, and math labs, as well as a video conferencing platform tailored for Haitian classrooms.\nThrough Smartstch, we are transforming traditional education by leveraging AI to personalize learning experiences, streamline administrative tasks, and provide access to high-quality educational resources. \n. Our mission is to empower students and educators across Haiti to thrive in the digital age and unlock their full potential.",
+      "startYear": "2023-07-10",
+      "endYear": ""
     }
   ],
   projects: [],
@@ -81,7 +81,7 @@ const DefaultResumeData = {
     {
       title: "Technical Skills",
       skills: [
-        "JavaScript", "Python", "Web Services", "C++", "HTML5", "CSS", "SQL", "User Interface", "Creativity"
+         "Software engineer","JavaScript", "Python", "Web Services", "C++", "HTML5","PHP","CSS", "SQL", "User Interface", "Creativity"
       ]
     },
     {
@@ -99,11 +99,15 @@ const DefaultResumeData = {
   ],
   languages: [
     "English",
-    "Hindi",
+    "French",
+    "Creole",
   ],
   certifications: [
-    "Certified Web Professional-Web Developer",
+    "Certified Web Professional-Web Developer(UDEMY)",
     "Java Development Certified Professional",
+    "Responsible Management  (Laval)",
+    "Expect in digital marketing ",
+  
   ],
 };
 
